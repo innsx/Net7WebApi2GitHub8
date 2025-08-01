@@ -12,12 +12,23 @@
 
         public string City { get; set; } = string.Empty;
 
-        public string State { get; set; } = string.Empty;     
+
+        public string Country { get; set; } = string.Empty;
+
+        public string Phone { get; set; } = string.Empty;
+
 
         public string MobilePhone { get; set; } = string.Empty;   
         public string HomePhone {get; set;}= string.Empty;
 
+
+        public string SSN { get; set; } = string.Empty;
+
+        public string Fax { get; set; } = string.Empty;
+
+
         public int BankAccount {get; set;}
         public string Password {get; set; } = string.Empty;
+
     }
 }
