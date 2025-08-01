@@ -14,6 +14,7 @@
 
         public string State { get; set; } = string.Empty;     
 
-
+        public string MobilePhone { get; set; } = string.Empty;   
+        public string HomePhone {get; set;}= string.Empty;
     }
 }
