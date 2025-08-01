@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net7WebApi2Github8", "Net7WebApi2Github8.csproj", "{D2DD5EF8-C4F8-4059-99CA-480E67B5583E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DD5EF8-C4F8-4059-99CA-480E67B5583E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DD5EF8-C4F8-4059-99CA-480E67B5583E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DD5EF8-C4F8-4059-99CA-480E67B5583E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DD5EF8-C4F8-4059-99CA-480E67B5583E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49C47143-AA86-4FDD-A745-76FC1ACAA1D9}
+	EndGlobalSection
+EndGlobal
