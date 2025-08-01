@@ -16,5 +16,8 @@
 
         public string MobilePhone { get; set; } = string.Empty;   
         public string HomePhone {get; set;}= string.Empty;
+
+        public int BankAccount {get; set;}
+        public string Password {get; set; } = string.Empty;
     }
 }
